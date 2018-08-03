@@ -1,4 +1,4 @@
-package db.connection;
+package kr.or.smartTiger.db.connection;
 
 import java.sql.*;
 import javax.naming.Context;

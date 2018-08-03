@@ -1,4 +1,4 @@
-package action.forward;
+package kr.or.smartTiger.forward;
 
 public class ActionForward {
 	

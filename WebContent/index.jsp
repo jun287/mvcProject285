@@ -2,5 +2,5 @@
 
 <!DOCTYPE html>
 <%
-	response.sendRedirect(request.getContextPath() + "/index.???");
+	response.sendRedirect(request.getContextPath() + "/index.smartTiger");
 %> 
