@@ -1,5 +1,11 @@
 package kr.or.smartTiger.dao;
 
-public class MemberDao {
+import kr.or.smartTiger.dto.Member;
 
+public class MemberDao {
+	
+	public void memberInsert(Member member) {
+		
+	}
+	
 }
